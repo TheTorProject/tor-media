@@ -6,9 +6,9 @@ This is an archive of all Tor images, videos, and related files.
 Inc. Content on this site is licensed under a Creative Commons Attribution
 3.0 United States License, unless otherwise noted.
 
-Let us know at tor-assistants@lists.torproject.org if you want us to know about using these materials for media advocacy, presentations, etc. 
-
 ----
+
+We're currently working on developing a repo of media. 
 
 What we need: 
 - Tor logo
